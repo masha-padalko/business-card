@@ -1,0 +1,10 @@
+@media only screen and (min-width: 1024px)  {
+	.card {
+		width: 650px;
+		height: 250px;
+	}
+
+	.card-contact__info {
+		display: block;
+	}
+}
