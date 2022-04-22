@@ -1,10 +1,21 @@
 @media only screen and (min-width: 1024px)  {
+
+	#container {
+		height: 100vh;
+		margin: 0;
+	}
+
 	.card {
 		width: 650px;
 		height: 250px;
 	}
 
+	.card-contacts {
+		display: block;
+	}
+
 	.card-contact__info {
 		display: block;
 	}
+
 }
